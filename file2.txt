@@ -1,4 +1,5 @@
 this is  a file 2.
 Let change in file2
 again change in file2
- git merge in (master)
+git merge in (master)
+merge error (try)

@@ -1,1 +1,2 @@
 Hey some changes in file3
+some changes in file3
